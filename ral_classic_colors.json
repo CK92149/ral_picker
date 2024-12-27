@@ -1,0 +1,1007 @@
+[
+    {
+        "code": "RAL 1000",
+        "name": "Green beige",
+        "rgb": "#7e7666"
+    },
+    {
+        "code": "RAL 1001",
+        "name": "Beige",
+        "rgb": "#7f7867"
+    },
+    {
+        "code": "RAL 1002",
+        "name": "Sand yellow",
+        "rgb": "#807969"
+    },
+    {
+        "code": "RAL 1003",
+        "name": "Signal yellow",
+        "rgb": "#827a6a"
+    },
+    {
+        "code": "RAL 1004",
+        "name": "Golden yellow",
+        "rgb": "#837b6b"
+    },
+    {
+        "code": "RAL 1005",
+        "name": "Honey yellow",
+        "rgb": "#847d6c"
+    },
+    {
+        "code": "RAL 1006",
+        "name": "Maize yellow",
+        "rgb": "#867e6d"
+    },
+    {
+        "code": "RAL 1007",
+        "name": "Daffodil yellow",
+        "rgb": "#877f6f"
+    },
+    {
+        "code": "RAL 1011",
+        "name": "Brown beige",
+        "rgb": "#8c8474"
+    },
+    {
+        "code": "RAL 1012",
+        "name": "Lemon yellow",
+        "rgb": "#8d8675"
+    },
+    {
+        "code": "RAL 1013",
+        "name": "Oyster white",
+        "rgb": "#8f8776"
+    },
+    {
+        "code": "RAL 1014",
+        "name": "Ivory",
+        "rgb": "#908877"
+    },
+    {
+        "code": "RAL 1015",
+        "name": "Light ivory",
+        "rgb": "#918979"
+    },
+    {
+        "code": "RAL 1016",
+        "name": "Sulfur yellow",
+        "rgb": "#938b7a"
+    },
+    {
+        "code": "RAL 1017",
+        "name": "Saffron yellow",
+        "rgb": "#948c7b"
+    },
+    {
+        "code": "RAL 1018",
+        "name": "Zinc yellow",
+        "rgb": "#958d7d"
+    },
+    {
+        "code": "RAL 1019",
+        "name": "Grey beige",
+        "rgb": "#978f7e"
+    },
+    {
+        "code": "RAL 1020",
+        "name": "Olive yellow",
+        "rgb": "#98907f"
+    },
+    {
+        "code": "RAL 1021",
+        "name": "Colza yellow",
+        "rgb": "#999180"
+    },
+    {
+        "code": "RAL 1023",
+        "name": "Traffic yellow",
+        "rgb": "#9c9483"
+    },
+    {
+        "code": "RAL 1024",
+        "name": "Ochre yellow",
+        "rgb": "#9d9584"
+    },
+    {
+        "code": "RAL 1026",
+        "name": "Luminous yellow",
+        "rgb": "#a09887"
+    },
+    {
+        "code": "RAL 1027",
+        "name": "Curry",
+        "rgb": "#a19988"
+    },
+    {
+        "code": "RAL 1028",
+        "name": "Melon yellow",
+        "rgb": "#a39a89"
+    },
+    {
+        "code": "RAL 1032",
+        "name": "Broom yellow",
+        "rgb": "#a8a08f"
+    },
+    {
+        "code": "RAL 1033",
+        "name": "Dahlia yellow",
+        "rgb": "#a9a190"
+    },
+    {
+        "code": "RAL 1034",
+        "name": "Pastel yellow",
+        "rgb": "#aba291"
+    },
+    {
+        "code": "RAL 1035",
+        "name": "Pearl beige",
+        "rgb": "#aca492"
+    },
+    {
+        "code": "RAL 1036",
+        "name": "Pearl gold",
+        "rgb": "#ada594"
+    },
+    {
+        "code": "RAL 1037",
+        "name": "Sun yellow",
+        "rgb": "#afa695"
+    },
+    {
+        "code": "RAL 2000",
+        "name": "Yellow orange",
+        "rgb": "#837655"
+    },
+    {
+        "code": "RAL 2001",
+        "name": "Red orange",
+        "rgb": "#857756"
+    },
+    {
+        "code": "RAL 2002",
+        "name": "Vermilion",
+        "rgb": "#867857"
+    },
+    {
+        "code": "RAL 2003",
+        "name": "Pastel orange",
+        "rgb": "#877a59"
+    },
+    {
+        "code": "RAL 2004",
+        "name": "Pure orange",
+        "rgb": "#897b5a"
+    },
+    {
+        "code": "RAL 2005",
+        "name": "Luminous orange",
+        "rgb": "#8a7c5b"
+    },
+    {
+        "code": "RAL 2007",
+        "name": "Luminous bright orange",
+        "rgb": "#8d7f5d"
+    },
+    {
+        "code": "RAL 2008",
+        "name": "Bright red orange",
+        "rgb": "#8e805f"
+    },
+    {
+        "code": "RAL 2009",
+        "name": "Traffic orange",
+        "rgb": "#8f8160"
+    },
+    {
+        "code": "RAL 2010",
+        "name": "Signal orange",
+        "rgb": "#908261"
+    },
+    {
+        "code": "RAL 2011",
+        "name": "Deep orange",
+        "rgb": "#928462"
+    },
+    {
+        "code": "RAL 2012",
+        "name": "Salmon orange",
+        "rgb": "#938564"
+    },
+    {
+        "code": "RAL 2013",
+        "name": "Pearl orange",
+        "rgb": "#948665"
+    },
+    {
+        "code": "RAL 2017",
+        "name": "RAL orange",
+        "rgb": "#9a8b6a"
+    },
+    {
+        "code": "RAL 3000",
+        "name": "Flame red",
+        "rgb": "#887543"
+    },
+    {
+        "code": "RAL 3001",
+        "name": "Signal red",
+        "rgb": "#897745"
+    },
+    {
+        "code": "RAL 3002",
+        "name": "Carmine red",
+        "rgb": "#8a7846"
+    },
+    {
+        "code": "RAL 3003",
+        "name": "Ruby red",
+        "rgb": "#8c7947"
+    },
+    {
+        "code": "RAL 3004",
+        "name": "Purple red",
+        "rgb": "#8d7a48"
+    },
+    {
+        "code": "RAL 3005",
+        "name": "Wine red",
+        "rgb": "#8e7c49"
+    },
+    {
+        "code": "RAL 3007",
+        "name": "Black red",
+        "rgb": "#917e4c"
+    },
+    {
+        "code": "RAL 3009",
+        "name": "Oxide red",
+        "rgb": "#94814e"
+    },
+    {
+        "code": "RAL 3011",
+        "name": "Brown red",
+        "rgb": "#968351"
+    },
+    {
+        "code": "RAL 3012",
+        "name": "Beige red",
+        "rgb": "#988552"
+    },
+    {
+        "code": "RAL 3013",
+        "name": "Tomato red",
+        "rgb": "#998653"
+    },
+    {
+        "code": "RAL 3014",
+        "name": "Antique pink",
+        "rgb": "#9a8754"
+    },
+    {
+        "code": "RAL 3015",
+        "name": "Light pink",
+        "rgb": "#9c8855"
+    },
+    {
+        "code": "RAL 3016",
+        "name": "Coral red",
+        "rgb": "#9d8a57"
+    },
+    {
+        "code": "RAL 3017",
+        "name": "Rose",
+        "rgb": "#9e8b58"
+    },
+    {
+        "code": "RAL 3018",
+        "name": "Strawberry red",
+        "rgb": "#a08c59"
+    },
+    {
+        "code": "RAL 3020",
+        "name": "Traffic red",
+        "rgb": "#a38f5c"
+    },
+    {
+        "code": "RAL 3022",
+        "name": "Salmon pink",
+        "rgb": "#a5925e"
+    },
+    {
+        "code": "RAL 3024",
+        "name": "Luminous red",
+        "rgb": "#a89460"
+    },
+    {
+        "code": "RAL 3026",
+        "name": "Luminous bright red",
+        "rgb": "#ab9763"
+    },
+    {
+        "code": "RAL 3027",
+        "name": "Raspberry red",
+        "rgb": "#ac9864"
+    },
+    {
+        "code": "RAL 3028",
+        "name": "Pure red",
+        "rgb": "#ae9965"
+    },
+    {
+        "code": "RAL 3031",
+        "name": "Orient red",
+        "rgb": "#b29d69"
+    },
+    {
+        "code": "RAL 3032",
+        "name": "Pearl ruby red",
+        "rgb": "#b39f6a"
+    },
+    {
+        "code": "RAL 3033",
+        "name": "Pearl pink",
+        "rgb": "#b4a06c"
+    },
+    {
+        "code": "RAL 4001",
+        "name": "Red lilac",
+        "rgb": "#8c7632"
+    },
+    {
+        "code": "RAL 4002",
+        "name": "Red violet",
+        "rgb": "#8d7833"
+    },
+    {
+        "code": "RAL 4003",
+        "name": "Heather violet",
+        "rgb": "#8f7934"
+    },
+    {
+        "code": "RAL 4004",
+        "name": "Claret violet",
+        "rgb": "#907a35"
+    },
+    {
+        "code": "RAL 4005",
+        "name": "Blue lilac",
+        "rgb": "#927b36"
+    },
+    {
+        "code": "RAL 4006",
+        "name": "Traffic purple",
+        "rgb": "#937d38"
+    },
+    {
+        "code": "RAL 4007",
+        "name": "Purple violet",
+        "rgb": "#947e39"
+    },
+    {
+        "code": "RAL 4008",
+        "name": "Signal violet",
+        "rgb": "#967f3a"
+    },
+    {
+        "code": "RAL 4009",
+        "name": "Pastel violet",
+        "rgb": "#97803b"
+    },
+    {
+        "code": "RAL 4010",
+        "name": "Telemagenta",
+        "rgb": "#98823c"
+    },
+    {
+        "code": "RAL 4011",
+        "name": "Pearl violet",
+        "rgb": "#9a833e"
+    },
+    {
+        "code": "RAL 4012",
+        "name": "Pearl blackberry",
+        "rgb": "#9b843f"
+    },
+    {
+        "code": "RAL 5000",
+        "name": "Violet blue",
+        "rgb": "#8d7519"
+    },
+    {
+        "code": "RAL 5001",
+        "name": "Green blue",
+        "rgb": "#8e761a"
+    },
+    {
+        "code": "RAL 5002",
+        "name": "Ultramarine blue",
+        "rgb": "#90771c"
+    },
+    {
+        "code": "RAL 5003",
+        "name": "Sapphire blue",
+        "rgb": "#91791d"
+    },
+    {
+        "code": "RAL 5004",
+        "name": "Black blue",
+        "rgb": "#937a1e"
+    },
+    {
+        "code": "RAL 5005",
+        "name": "Signal blue",
+        "rgb": "#947b20"
+    },
+    {
+        "code": "RAL 5007",
+        "name": "Brillant blue",
+        "rgb": "#977e23"
+    },
+    {
+        "code": "RAL 5008",
+        "name": "Grey blue",
+        "rgb": "#987f24"
+    },
+    {
+        "code": "RAL 5009",
+        "name": "Azure blue",
+        "rgb": "#9a8025"
+    },
+    {
+        "code": "RAL 5010",
+        "name": "Gentian blue",
+        "rgb": "#9b8127"
+    },
+    {
+        "code": "RAL 5011",
+        "name": "Steel blue",
+        "rgb": "#9c8328"
+    },
+    {
+        "code": "RAL 5012",
+        "name": "Light blue",
+        "rgb": "#9e8429"
+    },
+    {
+        "code": "RAL 5013",
+        "name": "Cobalt blue",
+        "rgb": "#9f852b"
+    },
+    {
+        "code": "RAL 5014",
+        "name": "Pigeon blue",
+        "rgb": "#a1872c"
+    },
+    {
+        "code": "RAL 5015",
+        "name": "Sky blue",
+        "rgb": "#a2882d"
+    },
+    {
+        "code": "RAL 5017",
+        "name": "Traffic blue",
+        "rgb": "#a58a30"
+    },
+    {
+        "code": "RAL 5018",
+        "name": "Turquoise blue",
+        "rgb": "#a68c31"
+    },
+    {
+        "code": "RAL 5019",
+        "name": "Capri blue",
+        "rgb": "#a88d32"
+    },
+    {
+        "code": "RAL 5020",
+        "name": "Ocean blue",
+        "rgb": "#a98e34"
+    },
+    {
+        "code": "RAL 5021",
+        "name": "Water blue",
+        "rgb": "#ab9035"
+    },
+    {
+        "code": "RAL 5022",
+        "name": "Night blue",
+        "rgb": "#ac9136"
+    },
+    {
+        "code": "RAL 5023",
+        "name": "Distant blue",
+        "rgb": "#ad9238"
+    },
+    {
+        "code": "RAL 5024",
+        "name": "Pastel blue",
+        "rgb": "#af9339"
+    },
+    {
+        "code": "RAL 5025",
+        "name": "Pearl gentian blue",
+        "rgb": "#b0953a"
+    },
+    {
+        "code": "RAL 5026",
+        "name": "Pearl night blue",
+        "rgb": "#b2963b"
+    },
+    {
+        "code": "RAL 6000",
+        "name": "Patina green",
+        "rgb": "#8f7500"
+    },
+    {
+        "code": "RAL 6001",
+        "name": "Emerald green",
+        "rgb": "#907600"
+    },
+    {
+        "code": "RAL 6002",
+        "name": "Leaf green",
+        "rgb": "#927700"
+    },
+    {
+        "code": "RAL 6003",
+        "name": "Olive green",
+        "rgb": "#937800"
+    },
+    {
+        "code": "RAL 6004",
+        "name": "Blue green",
+        "rgb": "#947a00"
+    },
+    {
+        "code": "RAL 6005",
+        "name": "Moss green",
+        "rgb": "#967b00"
+    },
+    {
+        "code": "RAL 6006",
+        "name": "Grey olive",
+        "rgb": "#977c00"
+    },
+    {
+        "code": "RAL 6007",
+        "name": "Bottle green",
+        "rgb": "#997d00"
+    },
+    {
+        "code": "RAL 6008",
+        "name": "Brown green",
+        "rgb": "#9a7f00"
+    },
+    {
+        "code": "RAL 6009",
+        "name": "Fir green",
+        "rgb": "#9c8000"
+    },
+    {
+        "code": "RAL 6010",
+        "name": "Grass green",
+        "rgb": "#9d8101"
+    },
+    {
+        "code": "RAL 6011",
+        "name": "Reseda green",
+        "rgb": "#9e8204"
+    },
+    {
+        "code": "RAL 6012",
+        "name": "Black green",
+        "rgb": "#a08406"
+    },
+    {
+        "code": "RAL 6013",
+        "name": "Reed green",
+        "rgb": "#a18509"
+    },
+    {
+        "code": "RAL 6014",
+        "name": "Yellow olive",
+        "rgb": "#a3860b"
+    },
+    {
+        "code": "RAL 6015",
+        "name": "Black olive",
+        "rgb": "#a4880e"
+    },
+    {
+        "code": "RAL 6016",
+        "name": "Turquoise green",
+        "rgb": "#a68910"
+    },
+    {
+        "code": "RAL 6017",
+        "name": "May green",
+        "rgb": "#a78a12"
+    },
+    {
+        "code": "RAL 6018",
+        "name": "Yellow green",
+        "rgb": "#a98b14"
+    },
+    {
+        "code": "RAL 6019",
+        "name": "Pastel green",
+        "rgb": "#aa8d16"
+    },
+    {
+        "code": "RAL 6020",
+        "name": "Chrome green",
+        "rgb": "#ab8e18"
+    },
+    {
+        "code": "RAL 6021",
+        "name": "Pale green",
+        "rgb": "#ad8f1a"
+    },
+    {
+        "code": "RAL 6022",
+        "name": "Olive drab",
+        "rgb": "#ae911b"
+    },
+    {
+        "code": "RAL 6024",
+        "name": "Traffic green",
+        "rgb": "#b1931f"
+    },
+    {
+        "code": "RAL 6025",
+        "name": "Fern green",
+        "rgb": "#b39520"
+    },
+    {
+        "code": "RAL 6026",
+        "name": "Opal green",
+        "rgb": "#b49622"
+    },
+    {
+        "code": "RAL 6027",
+        "name": "Light green",
+        "rgb": "#b69724"
+    },
+    {
+        "code": "RAL 6028",
+        "name": "Pine green",
+        "rgb": "#b79825"
+    },
+    {
+        "code": "RAL 6029",
+        "name": "Mint green",
+        "rgb": "#b99a27"
+    },
+    {
+        "code": "RAL 6032",
+        "name": "Signal green",
+        "rgb": "#bd9e2b"
+    },
+    {
+        "code": "RAL 6033",
+        "name": "Mint turquoise",
+        "rgb": "#be9f2c"
+    },
+    {
+        "code": "RAL 6034",
+        "name": "Pastel turquoise",
+        "rgb": "#c0a02e"
+    },
+    {
+        "code": "RAL 6035",
+        "name": "Pearl green",
+        "rgb": "#c1a22f"
+    },
+    {
+        "code": "RAL 6036",
+        "name": "Pearl opal green",
+        "rgb": "#c3a331"
+    },
+    {
+        "code": "RAL 6037",
+        "name": "Pure green",
+        "rgb": "#c4a432"
+    },
+    {
+        "code": "RAL 6038",
+        "name": "Luminous green",
+        "rgb": "#c6a634"
+    },
+    {
+        "code": "RAL 6039",
+        "name": "Fibrous green",
+        "rgb": "#c7a735"
+    },
+    {
+        "code": "RAL 7000",
+        "name": "Squirrel grey",
+        "rgb": "#907500"
+    },
+    {
+        "code": "RAL 7001",
+        "name": "Silver grey",
+        "rgb": "#917600"
+    },
+    {
+        "code": "RAL 7002",
+        "name": "Olive grey",
+        "rgb": "#937700"
+    },
+    {
+        "code": "RAL 7003",
+        "name": "Moss grey",
+        "rgb": "#947800"
+    },
+    {
+        "code": "RAL 7004",
+        "name": "Signal grey",
+        "rgb": "#967a00"
+    },
+    {
+        "code": "RAL 7005",
+        "name": "Mouse grey",
+        "rgb": "#977b00"
+    },
+    {
+        "code": "RAL 7006",
+        "name": "Beige grey",
+        "rgb": "#997c00"
+    },
+    {
+        "code": "RAL 7008",
+        "name": "Khaki grey",
+        "rgb": "#9c7f00"
+    },
+    {
+        "code": "RAL 7009",
+        "name": "Green grey",
+        "rgb": "#9d8000"
+    },
+    {
+        "code": "RAL 7010",
+        "name": "Tarpaulin grey",
+        "rgb": "#9e8100"
+    },
+    {
+        "code": "RAL 7011",
+        "name": "Iron grey",
+        "rgb": "#a08200"
+    },
+    {
+        "code": "RAL 7012",
+        "name": "Basalt grey",
+        "rgb": "#a18400"
+    },
+    {
+        "code": "RAL 7013",
+        "name": "Brown grey",
+        "rgb": "#a38500"
+    },
+    {
+        "code": "RAL 7015",
+        "name": "Slate grey",
+        "rgb": "#a68700"
+    },
+    {
+        "code": "RAL 7016",
+        "name": "Anthracite grey",
+        "rgb": "#a78900"
+    },
+    {
+        "code": "RAL 7021",
+        "name": "Black grey",
+        "rgb": "#af8f00"
+    },
+    {
+        "code": "RAL 7022",
+        "name": "Umbra grey",
+        "rgb": "#b09000"
+    },
+    {
+        "code": "RAL 7023",
+        "name": "Concrete grey",
+        "rgb": "#b29200"
+    },
+    {
+        "code": "RAL 7024",
+        "name": "Graphite grey",
+        "rgb": "#b39300"
+    },
+    {
+        "code": "RAL 7026",
+        "name": "Granite grey",
+        "rgb": "#b69600"
+    },
+    {
+        "code": "RAL 7030",
+        "name": "Stone grey",
+        "rgb": "#bc9b00"
+    },
+    {
+        "code": "RAL 7031",
+        "name": "Blue grey",
+        "rgb": "#bd9c00"
+    },
+    {
+        "code": "RAL 7032",
+        "name": "Pebble grey",
+        "rgb": "#bf9d00"
+    },
+    {
+        "code": "RAL 7033",
+        "name": "Cement grey",
+        "rgb": "#c09f00"
+    },
+    {
+        "code": "RAL 7034",
+        "name": "Yellow grey",
+        "rgb": "#c2a003"
+    },
+    {
+        "code": "RAL 7035",
+        "name": "Light grey",
+        "rgb": "#c3a106"
+    },
+    {
+        "code": "RAL 7036",
+        "name": "Platinum grey",
+        "rgb": "#c5a30a"
+    },
+    {
+        "code": "RAL 7037",
+        "name": "Dusty grey",
+        "rgb": "#c6a40d"
+    },
+    {
+        "code": "RAL 7038",
+        "name": "Agate grey",
+        "rgb": "#c8a510"
+    },
+    {
+        "code": "RAL 7039",
+        "name": "Quartz grey",
+        "rgb": "#c9a712"
+    },
+    {
+        "code": "RAL 7040",
+        "name": "Window grey",
+        "rgb": "#cba815"
+    },
+    {
+        "code": "RAL 7042",
+        "name": "Traffic grey A",
+        "rgb": "#ceab19"
+    },
+    {
+        "code": "RAL 7043",
+        "name": "Traffic grey B",
+        "rgb": "#cfac1b"
+    },
+    {
+        "code": "RAL 7044",
+        "name": "Silk grey",
+        "rgb": "#d1ad1d"
+    },
+    {
+        "code": "RAL 7045",
+        "name": "Telegrey 1",
+        "rgb": "#d2af1f"
+    },
+    {
+        "code": "RAL 7046",
+        "name": "Telegrey 2",
+        "rgb": "#d4b021"
+    },
+    {
+        "code": "RAL 7047",
+        "name": "Telegrey 4",
+        "rgb": "#d5b123"
+    },
+    {
+        "code": "RAL 7048",
+        "name": "Pearl mouse grey",
+        "rgb": "#d7b325"
+    },
+    {
+        "code": "RAL 8000",
+        "name": "Green brown",
+        "rgb": "#917400"
+    },
+    {
+        "code": "RAL 8001",
+        "name": "Ochre brown",
+        "rgb": "#927600"
+    },
+    {
+        "code": "RAL 8002",
+        "name": "Signal brown",
+        "rgb": "#947700"
+    },
+    {
+        "code": "RAL 8003",
+        "name": "Clay brown",
+        "rgb": "#957800"
+    },
+    {
+        "code": "RAL 8004",
+        "name": "Copper brown",
+        "rgb": "#977900"
+    },
+    {
+        "code": "RAL 8007",
+        "name": "Fawn brown",
+        "rgb": "#9b7d00"
+    },
+    {
+        "code": "RAL 8008",
+        "name": "Olive brown",
+        "rgb": "#9c7e00"
+    },
+    {
+        "code": "RAL 8011",
+        "name": "Nut brown",
+        "rgb": "#a18200"
+    },
+    {
+        "code": "RAL 8012",
+        "name": "Red brown",
+        "rgb": "#a28300"
+    },
+    {
+        "code": "RAL 8014",
+        "name": "Sepia brown",
+        "rgb": "#a58600"
+    },
+    {
+        "code": "RAL 8015",
+        "name": "Chestnut brown",
+        "rgb": "#a78700"
+    },
+    {
+        "code": "RAL 8016",
+        "name": "Mahogany brown",
+        "rgb": "#a88900"
+    },
+    {
+        "code": "RAL 8017",
+        "name": "Chocolate brown",
+        "rgb": "#aa8a00"
+    },
+    {
+        "code": "RAL 8019",
+        "name": "Grey brown",
+        "rgb": "#ad8c00"
+    },
+    {
+        "code": "RAL 8022",
+        "name": "Black brown",
+        "rgb": "#b19000"
+    },
+    {
+        "code": "RAL 8023",
+        "name": "Orange brown",
+        "rgb": "#b39200"
+    },
+    {
+        "code": "RAL 8024",
+        "name": "Beige brown",
+        "rgb": "#b49300"
+    },
+    {
+        "code": "RAL 8025",
+        "name": "Pale brown",
+        "rgb": "#b69400"
+    },
+    {
+        "code": "RAL 8028",
+        "name": "Terra brown",
+        "rgb": "#ba9800"
+    },
+    {
+        "code": "RAL 8029",
+        "name": "Pearl copper",
+        "rgb": "#bc9900"
+    }
+]
